@@ -1,0 +1,14 @@
+F:\tmcdata\centria-csharp-basics-open-23-24\part_01-003_bonnie_tyler_line_change\src\Exercise003\bin\Debug\net6.0\Exercise.exe
+F:\tmcdata\centria-csharp-basics-open-23-24\part_01-003_bonnie_tyler_line_change\src\Exercise003\bin\Debug\net6.0\Exercise.deps.json
+F:\tmcdata\centria-csharp-basics-open-23-24\part_01-003_bonnie_tyler_line_change\src\Exercise003\bin\Debug\net6.0\Exercise.runtimeconfig.json
+F:\tmcdata\centria-csharp-basics-open-23-24\part_01-003_bonnie_tyler_line_change\src\Exercise003\bin\Debug\net6.0\Exercise.dll
+F:\tmcdata\centria-csharp-basics-open-23-24\part_01-003_bonnie_tyler_line_change\src\Exercise003\bin\Debug\net6.0\Exercise.pdb
+F:\tmcdata\centria-csharp-basics-open-23-24\part_01-003_bonnie_tyler_line_change\src\Exercise003\obj\Debug\net6.0\Exercise.GeneratedMSBuildEditorConfig.editorconfig
+F:\tmcdata\centria-csharp-basics-open-23-24\part_01-003_bonnie_tyler_line_change\src\Exercise003\obj\Debug\net6.0\Exercise.AssemblyInfoInputs.cache
+F:\tmcdata\centria-csharp-basics-open-23-24\part_01-003_bonnie_tyler_line_change\src\Exercise003\obj\Debug\net6.0\Exercise.AssemblyInfo.cs
+F:\tmcdata\centria-csharp-basics-open-23-24\part_01-003_bonnie_tyler_line_change\src\Exercise003\obj\Debug\net6.0\Exercise.csproj.CoreCompileInputs.cache
+F:\tmcdata\centria-csharp-basics-open-23-24\part_01-003_bonnie_tyler_line_change\src\Exercise003\obj\Debug\net6.0\Exercise.dll
+F:\tmcdata\centria-csharp-basics-open-23-24\part_01-003_bonnie_tyler_line_change\src\Exercise003\obj\Debug\net6.0\refint\Exercise.dll
+F:\tmcdata\centria-csharp-basics-open-23-24\part_01-003_bonnie_tyler_line_change\src\Exercise003\obj\Debug\net6.0\Exercise.pdb
+F:\tmcdata\centria-csharp-basics-open-23-24\part_01-003_bonnie_tyler_line_change\src\Exercise003\obj\Debug\net6.0\Exercise.genruntimeconfig.cache
+F:\tmcdata\centria-csharp-basics-open-23-24\part_01-003_bonnie_tyler_line_change\src\Exercise003\obj\Debug\net6.0\ref\Exercise.dll
