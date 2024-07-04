@@ -1,0 +1,15 @@
+f:\tmcdata\centria-csharp-basics-open-23-24\part_01-017_input_two_integers\src\Exercise017\bin\Debug\net6.0\Exercise.exe
+f:\tmcdata\centria-csharp-basics-open-23-24\part_01-017_input_two_integers\src\Exercise017\bin\Debug\net6.0\Exercise.deps.json
+f:\tmcdata\centria-csharp-basics-open-23-24\part_01-017_input_two_integers\src\Exercise017\bin\Debug\net6.0\Exercise.runtimeconfig.json
+f:\tmcdata\centria-csharp-basics-open-23-24\part_01-017_input_two_integers\src\Exercise017\bin\Debug\net6.0\Exercise.dll
+f:\tmcdata\centria-csharp-basics-open-23-24\part_01-017_input_two_integers\src\Exercise017\bin\Debug\net6.0\Exercise.pdb
+f:\tmcdata\centria-csharp-basics-open-23-24\part_01-017_input_two_integers\src\Exercise017\obj\Debug\net6.0\Exercise.GeneratedMSBuildEditorConfig.editorconfig
+f:\tmcdata\centria-csharp-basics-open-23-24\part_01-017_input_two_integers\src\Exercise017\obj\Debug\net6.0\Exercise.AssemblyInfoInputs.cache
+f:\tmcdata\centria-csharp-basics-open-23-24\part_01-017_input_two_integers\src\Exercise017\obj\Debug\net6.0\Exercise.AssemblyInfo.cs
+f:\tmcdata\centria-csharp-basics-open-23-24\part_01-017_input_two_integers\src\Exercise017\obj\Debug\net6.0\Exercise.csproj.CoreCompileInputs.cache
+f:\tmcdata\centria-csharp-basics-open-23-24\part_01-017_input_two_integers\src\Exercise017\obj\Debug\net6.0\Exercise.sourcelink.json
+f:\tmcdata\centria-csharp-basics-open-23-24\part_01-017_input_two_integers\src\Exercise017\obj\Debug\net6.0\Exercise.dll
+f:\tmcdata\centria-csharp-basics-open-23-24\part_01-017_input_two_integers\src\Exercise017\obj\Debug\net6.0\refint\Exercise.dll
+f:\tmcdata\centria-csharp-basics-open-23-24\part_01-017_input_two_integers\src\Exercise017\obj\Debug\net6.0\Exercise.pdb
+f:\tmcdata\centria-csharp-basics-open-23-24\part_01-017_input_two_integers\src\Exercise017\obj\Debug\net6.0\Exercise.genruntimeconfig.cache
+f:\tmcdata\centria-csharp-basics-open-23-24\part_01-017_input_two_integers\src\Exercise017\obj\Debug\net6.0\ref\Exercise.dll
