@@ -159,3 +159,87 @@ checksum = "62e430362d8ae2535e8db2b18afa04ff"
 [exercises.part_01-040_amount_and_sum]
 id = 220192
 checksum = "10fae8748afab49e7bcc819f32a5fcf4"
+
+[exercises.part_02-001_second_power]
+id = 220069
+checksum = "a3f549df3b5ca5d27bbab7f28fba21c0"
+
+[exercises.part_02-002_square_root_of_sum]
+id = 220083
+checksum = "0a00b45d7a2db79acf2bc52f00a7923d"
+
+[exercises.part_02-003_absolute_value]
+id = 220072
+checksum = "36a2f2357a3e868be0886ea3344e9182"
+
+[exercises.part_02-004_comparison]
+id = 220075
+checksum = "4238acb5c0a4cf2a0ca1d0889379ee4d"
+
+[exercises.part_02-005_iterating_to_input]
+id = 220071
+checksum = "9f505fd1b01d14d7bb1c959e3ee60147"
+
+[exercises.part_02-006_iterating_to_hundred]
+id = 220066
+checksum = "60426f92bb8cc2becfb9e584ac3515bc"
+
+[exercises.part_02-007_where_to_and_from]
+id = 220080
+checksum = "56ab11f786a057d3a3d6308efa804424"
+
+[exercises.part_02-008_numbers_and_calculations]
+id = 220081
+checksum = "7b2b67770dd71f918cc6929d799b468c"
+
+[exercises.part_02-009_print_phrase]
+id = 220067
+checksum = "d62bdaff2f6d524e8fa19d0210ccf758"
+
+[exercises.part_02-010_how_many_times]
+id = 220085
+checksum = "ec8907062d36d45e678c82cfdf0ffbb1"
+
+[exercises.part_02-011_print_until_number]
+id = 220068
+checksum = "8fb2983e7b91bef0aa535799ae2361a3"
+
+[exercises.part_02-012_from_number_to_one]
+id = 220082
+checksum = "33e52fb469fe77b4b66df467357644c7"
+
+[exercises.part_02-013_division]
+id = 220079
+checksum = "865b3899939927487dba98daee3bb6f1"
+
+[exercises.part_02-014_divisible_in_range]
+id = 220073
+checksum = "3f1ce1f92ed86d4b109896347d6cfeac"
+
+[exercises.part_02-015_number_uno]
+id = 220070
+checksum = "104bedb301726ab92d205c1b27127801"
+
+[exercises.part_02-016_word]
+id = 220074
+checksum = "e1c86043a1c15bcf2f5bc7fc5096beab"
+
+[exercises.part_02-017_sum]
+id = 220077
+checksum = "36c5f0c55c4c5cf4c63fd08ca8a7aabd"
+
+[exercises.part_02-018_smallest]
+id = 220076
+checksum = "f972f1be95455d779db31aa374cc80da"
+
+[exercises.part_02-019_greatest]
+id = 220086
+checksum = "48eaa679b915964420f1b322459572c1"
+
+[exercises.part_02-020_stars]
+id = 220078
+checksum = "56c8c512a41473bc6f87e7f7ad458a5d"
+
+[exercises.part_02-021_christmas_tree]
+id = 220084
+checksum = "b005856f23976ba795b81439cba54aa3"
