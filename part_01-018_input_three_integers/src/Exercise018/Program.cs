@@ -5,6 +5,16 @@
   {
     public static void Main(string[] args)
     {
+      Console.WriteLine("Give the first number!");
+      int x = int.Parse(Console.ReadLine());
+      Console.WriteLine("Give the second number!");
+      int y = int.Parse(Console.ReadLine());
+      Console.WriteLine("Give the third number!");
+      int z = int.Parse(Console.ReadLine());
+
+      int sum = x + y + z;
+      Console.WriteLine($"The sum is {sum}");
+
     }
   }
 }
