@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\tmcdata\\centria-csharp-basics-open-23-24\\part_01-033_echo\\test\\Exercise033Test\\Exercise033Tests.csproj": {}
+    "f:\\tmcdata\\centria-csharp-basics-open-23-24\\part_01-033_echo\\test\\Exercise033Test\\Exercise033Tests.csproj": {}
   },
   "projects": {
-    "F:\\tmcdata\\centria-csharp-basics-open-23-24\\part_01-033_echo\\src\\Exercise033\\Exercise.csproj": {
+    "f:\\tmcdata\\centria-csharp-basics-open-23-24\\part_01-033_echo\\src\\Exercise033\\Exercise.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\tmcdata\\centria-csharp-basics-open-23-24\\part_01-033_echo\\src\\Exercise033\\Exercise.csproj",
+        "projectUniqueName": "f:\\tmcdata\\centria-csharp-basics-open-23-24\\part_01-033_echo\\src\\Exercise033\\Exercise.csproj",
         "projectName": "Exercise",
-        "projectPath": "F:\\tmcdata\\centria-csharp-basics-open-23-24\\part_01-033_echo\\src\\Exercise033\\Exercise.csproj",
+        "projectPath": "f:\\tmcdata\\centria-csharp-basics-open-23-24\\part_01-033_echo\\src\\Exercise033\\Exercise.csproj",
         "packagesPath": "C:\\Users\\mdzih\\.nuget\\packages\\",
-        "outputPath": "F:\\tmcdata\\centria-csharp-basics-open-23-24\\part_01-033_echo\\src\\Exercise033\\obj\\",
+        "outputPath": "f:\\tmcdata\\centria-csharp-basics-open-23-24\\part_01-033_echo\\src\\Exercise033\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mdzih\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -80,14 +80,14 @@
         }
       }
     },
-    "F:\\tmcdata\\centria-csharp-basics-open-23-24\\part_01-033_echo\\test\\Exercise033Test\\Exercise033Tests.csproj": {
+    "f:\\tmcdata\\centria-csharp-basics-open-23-24\\part_01-033_echo\\test\\Exercise033Test\\Exercise033Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\tmcdata\\centria-csharp-basics-open-23-24\\part_01-033_echo\\test\\Exercise033Test\\Exercise033Tests.csproj",
+        "projectUniqueName": "f:\\tmcdata\\centria-csharp-basics-open-23-24\\part_01-033_echo\\test\\Exercise033Test\\Exercise033Tests.csproj",
         "projectName": "Exercise033Tests",
-        "projectPath": "F:\\tmcdata\\centria-csharp-basics-open-23-24\\part_01-033_echo\\test\\Exercise033Test\\Exercise033Tests.csproj",
+        "projectPath": "f:\\tmcdata\\centria-csharp-basics-open-23-24\\part_01-033_echo\\test\\Exercise033Test\\Exercise033Tests.csproj",
         "packagesPath": "C:\\Users\\mdzih\\.nuget\\packages\\",
-        "outputPath": "F:\\tmcdata\\centria-csharp-basics-open-23-24\\part_01-033_echo\\test\\Exercise033Test\\obj\\",
+        "outputPath": "f:\\tmcdata\\centria-csharp-basics-open-23-24\\part_01-033_echo\\test\\Exercise033Test\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mdzih\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -102,8 +102,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "F:\\tmcdata\\centria-csharp-basics-open-23-24\\part_01-033_echo\\src\\Exercise033\\Exercise.csproj": {
-                "projectPath": "F:\\tmcdata\\centria-csharp-basics-open-23-24\\part_01-033_echo\\src\\Exercise033\\Exercise.csproj"
+              "f:\\tmcdata\\centria-csharp-basics-open-23-24\\part_01-033_echo\\src\\Exercise033\\Exercise.csproj": {
+                "projectPath": "f:\\tmcdata\\centria-csharp-basics-open-23-24\\part_01-033_echo\\src\\Exercise033\\Exercise.csproj"
               }
             }
           }
