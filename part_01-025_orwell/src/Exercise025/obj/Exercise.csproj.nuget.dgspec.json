@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\tmcdata\\centria-csharp-basics-open-23-24\\part_01-025_orwell\\src\\Exercise025\\Exercise.csproj": {}
+    "f:\\tmcdata\\centria-csharp-basics-open-23-24\\part_01-025_orwell\\src\\Exercise025\\Exercise.csproj": {}
   },
   "projects": {
-    "F:\\tmcdata\\centria-csharp-basics-open-23-24\\part_01-025_orwell\\src\\Exercise025\\Exercise.csproj": {
+    "f:\\tmcdata\\centria-csharp-basics-open-23-24\\part_01-025_orwell\\src\\Exercise025\\Exercise.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\tmcdata\\centria-csharp-basics-open-23-24\\part_01-025_orwell\\src\\Exercise025\\Exercise.csproj",
+        "projectUniqueName": "f:\\tmcdata\\centria-csharp-basics-open-23-24\\part_01-025_orwell\\src\\Exercise025\\Exercise.csproj",
         "projectName": "Exercise",
-        "projectPath": "F:\\tmcdata\\centria-csharp-basics-open-23-24\\part_01-025_orwell\\src\\Exercise025\\Exercise.csproj",
+        "projectPath": "f:\\tmcdata\\centria-csharp-basics-open-23-24\\part_01-025_orwell\\src\\Exercise025\\Exercise.csproj",
         "packagesPath": "C:\\Users\\mdzih\\.nuget\\packages\\",
-        "outputPath": "F:\\tmcdata\\centria-csharp-basics-open-23-24\\part_01-025_orwell\\src\\Exercise025\\obj\\",
+        "outputPath": "f:\\tmcdata\\centria-csharp-basics-open-23-24\\part_01-025_orwell\\src\\Exercise025\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mdzih\\AppData\\Roaming\\NuGet\\NuGet.Config"
