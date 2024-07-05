@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\tmcdata\\centria-csharp-basics-open-23-24\\part_01-031_even_or_odd\\test\\Exercise031Test\\Exercise031Tests.csproj": {}
+    "f:\\tmcdata\\centria-csharp-basics-open-23-24\\part_01-031_even_or_odd\\test\\Exercise031Test\\Exercise031Tests.csproj": {}
   },
   "projects": {
-    "F:\\tmcdata\\centria-csharp-basics-open-23-24\\part_01-031_even_or_odd\\src\\Exercise031\\Exercise.csproj": {
+    "f:\\tmcdata\\centria-csharp-basics-open-23-24\\part_01-031_even_or_odd\\src\\Exercise031\\Exercise.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\tmcdata\\centria-csharp-basics-open-23-24\\part_01-031_even_or_odd\\src\\Exercise031\\Exercise.csproj",
+        "projectUniqueName": "f:\\tmcdata\\centria-csharp-basics-open-23-24\\part_01-031_even_or_odd\\src\\Exercise031\\Exercise.csproj",
         "projectName": "Exercise",
-        "projectPath": "F:\\tmcdata\\centria-csharp-basics-open-23-24\\part_01-031_even_or_odd\\src\\Exercise031\\Exercise.csproj",
+        "projectPath": "f:\\tmcdata\\centria-csharp-basics-open-23-24\\part_01-031_even_or_odd\\src\\Exercise031\\Exercise.csproj",
         "packagesPath": "C:\\Users\\mdzih\\.nuget\\packages\\",
-        "outputPath": "F:\\tmcdata\\centria-csharp-basics-open-23-24\\part_01-031_even_or_odd\\src\\Exercise031\\obj\\",
+        "outputPath": "f:\\tmcdata\\centria-csharp-basics-open-23-24\\part_01-031_even_or_odd\\src\\Exercise031\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mdzih\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -80,14 +80,14 @@
         }
       }
     },
-    "F:\\tmcdata\\centria-csharp-basics-open-23-24\\part_01-031_even_or_odd\\test\\Exercise031Test\\Exercise031Tests.csproj": {
+    "f:\\tmcdata\\centria-csharp-basics-open-23-24\\part_01-031_even_or_odd\\test\\Exercise031Test\\Exercise031Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\tmcdata\\centria-csharp-basics-open-23-24\\part_01-031_even_or_odd\\test\\Exercise031Test\\Exercise031Tests.csproj",
+        "projectUniqueName": "f:\\tmcdata\\centria-csharp-basics-open-23-24\\part_01-031_even_or_odd\\test\\Exercise031Test\\Exercise031Tests.csproj",
         "projectName": "Exercise031Tests",
-        "projectPath": "F:\\tmcdata\\centria-csharp-basics-open-23-24\\part_01-031_even_or_odd\\test\\Exercise031Test\\Exercise031Tests.csproj",
+        "projectPath": "f:\\tmcdata\\centria-csharp-basics-open-23-24\\part_01-031_even_or_odd\\test\\Exercise031Test\\Exercise031Tests.csproj",
         "packagesPath": "C:\\Users\\mdzih\\.nuget\\packages\\",
-        "outputPath": "F:\\tmcdata\\centria-csharp-basics-open-23-24\\part_01-031_even_or_odd\\test\\Exercise031Test\\obj\\",
+        "outputPath": "f:\\tmcdata\\centria-csharp-basics-open-23-24\\part_01-031_even_or_odd\\test\\Exercise031Test\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mdzih\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -102,8 +102,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "F:\\tmcdata\\centria-csharp-basics-open-23-24\\part_01-031_even_or_odd\\src\\Exercise031\\Exercise.csproj": {
-                "projectPath": "F:\\tmcdata\\centria-csharp-basics-open-23-24\\part_01-031_even_or_odd\\src\\Exercise031\\Exercise.csproj"
+              "f:\\tmcdata\\centria-csharp-basics-open-23-24\\part_01-031_even_or_odd\\src\\Exercise031\\Exercise.csproj": {
+                "projectPath": "f:\\tmcdata\\centria-csharp-basics-open-23-24\\part_01-031_even_or_odd\\src\\Exercise031\\Exercise.csproj"
               }
             }
           }
