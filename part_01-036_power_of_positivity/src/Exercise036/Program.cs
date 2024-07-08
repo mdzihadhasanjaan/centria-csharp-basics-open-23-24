@@ -5,26 +5,27 @@
   {
     public static void Main(string[] args)
     {
-      int number;
-
-        Console.WriteLine("Give a number (0 to stop):");
-        number = Convert.ToInt32(Console.ReadLine());
-
-        while (number != 0)
+      while(true)
+      {
+        Console.WriteLine("Give a number:");
+        int userInput = int.Parse(Console.ReadLine());
+        if (userInput == 0)
         {
-            if (number > 0)
-            {
-                Console.WriteLine(number * number);
-            }
-            else if (number < 0)
-            {
-                Console.WriteLine("That is negative");
-            }
-
-            Console.WriteLine("Give a number (0 to stop):");
-            number = Convert.ToInt32(Console.ReadLine());
+          break;
         }
-    
+        if (userInput < 0)
+        {
+          Console.WriteLine("That is negative");
+
+        }
+        if (userInput > 0)
+        {
+          int x;
+          x = userInput * userInput;
+          Console.WriteLine($"{x}");
+        }
+      }
+
     }
   }
 }
