@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bxNxOdZKT7I=",
+  "dgSpecHash": "j5L/eliqD8w=",
   "success": true,
-  "projectFilePath": "f:\\tmcdata\\centria-csharp-basics-open-23-24\\part_01-013_print_double\\test\\Exercise013Test\\Exercise013Tests.csproj",
+  "projectFilePath": "F:\\tmcdata\\centria-csharp-basics-open-23-24\\part_01-013_print_double\\test\\Exercise013Test\\Exercise013Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mdzih\\.nuget\\packages\\codeexerciselibrary.sourcegenerator\\1.2.1\\codeexerciselibrary.sourcegenerator.1.2.1.nupkg.sha512",
     "C:\\Users\\mdzih\\.nuget\\packages\\microsoft.codecoverage\\17.3.0\\microsoft.codecoverage.17.3.0.nupkg.sha512",

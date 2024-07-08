@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "f0p4lZInRj4=",
+  "dgSpecHash": "H6dI9oQd9yI=",
   "success": true,
-  "projectFilePath": "f:\\tmcdata\\centria-csharp-basics-open-23-24\\part_01-024_speeding\\src\\Exercise024\\Exercise.csproj",
+  "projectFilePath": "F:\\tmcdata\\centria-csharp-basics-open-23-24\\part_01-024_speeding\\src\\Exercise024\\Exercise.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mdzih\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.31\\microsoft.netcore.app.ref.6.0.31.nupkg.sha512",
     "C:\\Users\\mdzih\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.31\\microsoft.windowsdesktop.app.ref.6.0.31.nupkg.sha512",

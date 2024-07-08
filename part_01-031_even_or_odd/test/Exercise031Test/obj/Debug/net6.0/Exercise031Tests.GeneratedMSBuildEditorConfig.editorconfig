@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Exercise031Tests
-build_property.ProjectDir = f:\tmcdata\centria-csharp-basics-open-23-24\part_01-031_even_or_odd\test\Exercise031Test\
+build_property.ProjectDir = F:\tmcdata\centria-csharp-basics-open-23-24\part_01-031_even_or_odd\test\Exercise031Test\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

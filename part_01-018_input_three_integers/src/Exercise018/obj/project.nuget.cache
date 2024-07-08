@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "04F+eFLHPVo=",
+  "dgSpecHash": "c9nj0y17Hg4=",
   "success": true,
-  "projectFilePath": "f:\\tmcdata\\centria-csharp-basics-open-23-24\\part_01-018_input_three_integers\\src\\Exercise018\\Exercise.csproj",
+  "projectFilePath": "F:\\tmcdata\\centria-csharp-basics-open-23-24\\part_01-018_input_three_integers\\src\\Exercise018\\Exercise.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mdzih\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.31\\microsoft.netcore.app.ref.6.0.31.nupkg.sha512",
     "C:\\Users\\mdzih\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.31\\microsoft.windowsdesktop.app.ref.6.0.31.nupkg.sha512",

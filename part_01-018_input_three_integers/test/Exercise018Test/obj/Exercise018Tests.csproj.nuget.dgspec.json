@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "f:\\tmcdata\\centria-csharp-basics-open-23-24\\part_01-018_input_three_integers\\test\\Exercise018Test\\Exercise018Tests.csproj": {}
+    "F:\\tmcdata\\centria-csharp-basics-open-23-24\\part_01-018_input_three_integers\\test\\Exercise018Test\\Exercise018Tests.csproj": {}
   },
   "projects": {
-    "f:\\tmcdata\\centria-csharp-basics-open-23-24\\part_01-018_input_three_integers\\src\\Exercise018\\Exercise.csproj": {
+    "F:\\tmcdata\\centria-csharp-basics-open-23-24\\part_01-018_input_three_integers\\src\\Exercise018\\Exercise.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "f:\\tmcdata\\centria-csharp-basics-open-23-24\\part_01-018_input_three_integers\\src\\Exercise018\\Exercise.csproj",
+        "projectUniqueName": "F:\\tmcdata\\centria-csharp-basics-open-23-24\\part_01-018_input_three_integers\\src\\Exercise018\\Exercise.csproj",
         "projectName": "Exercise",
-        "projectPath": "f:\\tmcdata\\centria-csharp-basics-open-23-24\\part_01-018_input_three_integers\\src\\Exercise018\\Exercise.csproj",
+        "projectPath": "F:\\tmcdata\\centria-csharp-basics-open-23-24\\part_01-018_input_three_integers\\src\\Exercise018\\Exercise.csproj",
         "packagesPath": "C:\\Users\\mdzih\\.nuget\\packages\\",
-        "outputPath": "f:\\tmcdata\\centria-csharp-basics-open-23-24\\part_01-018_input_three_integers\\src\\Exercise018\\obj\\",
+        "outputPath": "F:\\tmcdata\\centria-csharp-basics-open-23-24\\part_01-018_input_three_integers\\src\\Exercise018\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mdzih\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -80,14 +80,14 @@
         }
       }
     },
-    "f:\\tmcdata\\centria-csharp-basics-open-23-24\\part_01-018_input_three_integers\\test\\Exercise018Test\\Exercise018Tests.csproj": {
+    "F:\\tmcdata\\centria-csharp-basics-open-23-24\\part_01-018_input_three_integers\\test\\Exercise018Test\\Exercise018Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "f:\\tmcdata\\centria-csharp-basics-open-23-24\\part_01-018_input_three_integers\\test\\Exercise018Test\\Exercise018Tests.csproj",
+        "projectUniqueName": "F:\\tmcdata\\centria-csharp-basics-open-23-24\\part_01-018_input_three_integers\\test\\Exercise018Test\\Exercise018Tests.csproj",
         "projectName": "Exercise018Tests",
-        "projectPath": "f:\\tmcdata\\centria-csharp-basics-open-23-24\\part_01-018_input_three_integers\\test\\Exercise018Test\\Exercise018Tests.csproj",
+        "projectPath": "F:\\tmcdata\\centria-csharp-basics-open-23-24\\part_01-018_input_three_integers\\test\\Exercise018Test\\Exercise018Tests.csproj",
         "packagesPath": "C:\\Users\\mdzih\\.nuget\\packages\\",
-        "outputPath": "f:\\tmcdata\\centria-csharp-basics-open-23-24\\part_01-018_input_three_integers\\test\\Exercise018Test\\obj\\",
+        "outputPath": "F:\\tmcdata\\centria-csharp-basics-open-23-24\\part_01-018_input_three_integers\\test\\Exercise018Test\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mdzih\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -102,8 +102,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "f:\\tmcdata\\centria-csharp-basics-open-23-24\\part_01-018_input_three_integers\\src\\Exercise018\\Exercise.csproj": {
-                "projectPath": "f:\\tmcdata\\centria-csharp-basics-open-23-24\\part_01-018_input_three_integers\\src\\Exercise018\\Exercise.csproj"
+              "F:\\tmcdata\\centria-csharp-basics-open-23-24\\part_01-018_input_three_integers\\src\\Exercise018\\Exercise.csproj": {
+                "projectPath": "F:\\tmcdata\\centria-csharp-basics-open-23-24\\part_01-018_input_three_integers\\src\\Exercise018\\Exercise.csproj"
               }
             }
           }

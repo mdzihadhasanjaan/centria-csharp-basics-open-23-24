@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "f:\\tmcdata\\centria-csharp-basics-open-23-24\\part_01-023_tiny_calculator\\src\\Exercise023\\Exercise.csproj": {}
+    "F:\\tmcdata\\centria-csharp-basics-open-23-24\\part_01-023_tiny_calculator\\src\\Exercise023\\Exercise.csproj": {}
   },
   "projects": {
-    "f:\\tmcdata\\centria-csharp-basics-open-23-24\\part_01-023_tiny_calculator\\src\\Exercise023\\Exercise.csproj": {
+    "F:\\tmcdata\\centria-csharp-basics-open-23-24\\part_01-023_tiny_calculator\\src\\Exercise023\\Exercise.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "f:\\tmcdata\\centria-csharp-basics-open-23-24\\part_01-023_tiny_calculator\\src\\Exercise023\\Exercise.csproj",
+        "projectUniqueName": "F:\\tmcdata\\centria-csharp-basics-open-23-24\\part_01-023_tiny_calculator\\src\\Exercise023\\Exercise.csproj",
         "projectName": "Exercise",
-        "projectPath": "f:\\tmcdata\\centria-csharp-basics-open-23-24\\part_01-023_tiny_calculator\\src\\Exercise023\\Exercise.csproj",
+        "projectPath": "F:\\tmcdata\\centria-csharp-basics-open-23-24\\part_01-023_tiny_calculator\\src\\Exercise023\\Exercise.csproj",
         "packagesPath": "C:\\Users\\mdzih\\.nuget\\packages\\",
-        "outputPath": "f:\\tmcdata\\centria-csharp-basics-open-23-24\\part_01-023_tiny_calculator\\src\\Exercise023\\obj\\",
+        "outputPath": "F:\\tmcdata\\centria-csharp-basics-open-23-24\\part_01-023_tiny_calculator\\src\\Exercise023\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mdzih\\AppData\\Roaming\\NuGet\\NuGet.Config"
