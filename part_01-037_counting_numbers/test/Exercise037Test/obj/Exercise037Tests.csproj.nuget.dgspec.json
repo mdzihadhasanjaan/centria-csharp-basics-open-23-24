@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\tmcdata\\centria-csharp-basics-open-23-24\\part_01-037_counting_numbers\\test\\Exercise037Test\\Exercise037Tests.csproj": {}
+    "f:\\tmcdata\\centria-csharp-basics-open-23-24\\part_01-037_counting_numbers\\test\\Exercise037Test\\Exercise037Tests.csproj": {}
   },
   "projects": {
-    "F:\\tmcdata\\centria-csharp-basics-open-23-24\\part_01-037_counting_numbers\\src\\Exercise037\\Exercise.csproj": {
+    "f:\\tmcdata\\centria-csharp-basics-open-23-24\\part_01-037_counting_numbers\\src\\Exercise037\\Exercise.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\tmcdata\\centria-csharp-basics-open-23-24\\part_01-037_counting_numbers\\src\\Exercise037\\Exercise.csproj",
+        "projectUniqueName": "f:\\tmcdata\\centria-csharp-basics-open-23-24\\part_01-037_counting_numbers\\src\\Exercise037\\Exercise.csproj",
         "projectName": "Exercise",
-        "projectPath": "F:\\tmcdata\\centria-csharp-basics-open-23-24\\part_01-037_counting_numbers\\src\\Exercise037\\Exercise.csproj",
+        "projectPath": "f:\\tmcdata\\centria-csharp-basics-open-23-24\\part_01-037_counting_numbers\\src\\Exercise037\\Exercise.csproj",
         "packagesPath": "C:\\Users\\mdzih\\.nuget\\packages\\",
-        "outputPath": "F:\\tmcdata\\centria-csharp-basics-open-23-24\\part_01-037_counting_numbers\\src\\Exercise037\\obj\\",
+        "outputPath": "f:\\tmcdata\\centria-csharp-basics-open-23-24\\part_01-037_counting_numbers\\src\\Exercise037\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mdzih\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -80,14 +80,14 @@
         }
       }
     },
-    "F:\\tmcdata\\centria-csharp-basics-open-23-24\\part_01-037_counting_numbers\\test\\Exercise037Test\\Exercise037Tests.csproj": {
+    "f:\\tmcdata\\centria-csharp-basics-open-23-24\\part_01-037_counting_numbers\\test\\Exercise037Test\\Exercise037Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\tmcdata\\centria-csharp-basics-open-23-24\\part_01-037_counting_numbers\\test\\Exercise037Test\\Exercise037Tests.csproj",
+        "projectUniqueName": "f:\\tmcdata\\centria-csharp-basics-open-23-24\\part_01-037_counting_numbers\\test\\Exercise037Test\\Exercise037Tests.csproj",
         "projectName": "Exercise037Tests",
-        "projectPath": "F:\\tmcdata\\centria-csharp-basics-open-23-24\\part_01-037_counting_numbers\\test\\Exercise037Test\\Exercise037Tests.csproj",
+        "projectPath": "f:\\tmcdata\\centria-csharp-basics-open-23-24\\part_01-037_counting_numbers\\test\\Exercise037Test\\Exercise037Tests.csproj",
         "packagesPath": "C:\\Users\\mdzih\\.nuget\\packages\\",
-        "outputPath": "F:\\tmcdata\\centria-csharp-basics-open-23-24\\part_01-037_counting_numbers\\test\\Exercise037Test\\obj\\",
+        "outputPath": "f:\\tmcdata\\centria-csharp-basics-open-23-24\\part_01-037_counting_numbers\\test\\Exercise037Test\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mdzih\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -102,8 +102,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "F:\\tmcdata\\centria-csharp-basics-open-23-24\\part_01-037_counting_numbers\\src\\Exercise037\\Exercise.csproj": {
-                "projectPath": "F:\\tmcdata\\centria-csharp-basics-open-23-24\\part_01-037_counting_numbers\\src\\Exercise037\\Exercise.csproj"
+              "f:\\tmcdata\\centria-csharp-basics-open-23-24\\part_01-037_counting_numbers\\src\\Exercise037\\Exercise.csproj": {
+                "projectPath": "f:\\tmcdata\\centria-csharp-basics-open-23-24\\part_01-037_counting_numbers\\src\\Exercise037\\Exercise.csproj"
               }
             }
           }
